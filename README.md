@@ -1,8 +1,18 @@
-# 👋 Hola, soy Jhonatan Nuñez
+<h1 align="center">
+  <b>Hola, soy Jhonatan Nuñez</b> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Web+Junior;Aprendiendo+React+y+Fortaleciendo+Java;Buscando+oportunidad+en+TI" />
+</p>
+
+
+# 
 
 💻 Desarrollador Web Junior  
 🚀 Enfocado en Frontend con React y Backend con Java (Spring Boot)  
-📚 Actualmente sigo aprendiendo y buscando mi primera oportunidad como desarrollador  
+📚 Actualmente sigo aprendiendo y buscando oportunidad en TI 
 
 ---
 
@@ -66,9 +76,11 @@ Estoy enfocado en mejorar mis habilidades y conseguir experiencia profesional en
 
 ---
 
-## 📊 Mis estadísticas en GitHub
+## 📊 Mi actividad en GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JhonatanNY&show_icons=true&theme=radical&title_color=00bcd4&icon_color=00bcd4&text_color=ffffff&bg_color=0d1117)
+Aquí puedes ver un resumen de mi actividad, commits y repositorios:
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JhonatanNY&show_icons=true&theme=tokyonight)
 
 ---
 
