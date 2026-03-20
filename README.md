@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hola, soy Jhonatan Nuñez
 
-<!--
-**JhonatanNY/JhonatanNY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Web Junior  
+🚀 Enfocado en Frontend con React y Backend con Java (Spring Boot)  
+📚 Actualmente sigo aprendiendo y buscando mi primera oportunidad como desarrollador  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mí
+
+Soy egresado de Desarrollo de Sistemas de Información.  
+He trabajado en proyectos personales usando JavaScript, React y Java con Spring Boot.
+
+Me gusta entender bien las bases (como el DOM, estado y lógica en JavaScript) y construir aplicaciones completas paso a paso.
+
+Estoy enfocado en mejorar mis habilidades y conseguir experiencia profesional en el mundo del desarrollo.
+
+---
+
+## 🛠️ Tecnologías
+
+🔹 Frontend  
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+
+🔹 Backend  
+- Java  
+- Spring Boot  
+
+🔹 Base de datos  
+- MySQL  
+
+🔹 Herramientas  
+- Git  
+- GitHub  
+- VS Code  
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🔹 Sistema Web Fullstack (React + Spring Boot)
+- Aplicación con frontend y backend conectados  
+- CRUD completo  
+- Uso de base de datos  
+
+👉 (pon aquí tu link)
+
+---
+
+### 🔹 Proyecto JavaScript (DOM)
+- Manipulación del DOM  
+- Eventos y lógica dinámica  
+
+👉 (link)
+
+---
+
+### 🔹 CV Web
+- Página web tipo portafolio  
+- Hecho con HTML y CSS  
+
+👉 (link de tu repo practicando-cv-jhonatan)
+
+---
+
+## 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanNY&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: (pon tu link cuando lo tengas)
+- Email: (opcional)
