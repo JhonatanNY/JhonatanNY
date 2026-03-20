@@ -66,9 +66,9 @@ Estoy enfocado en mejorar mis habilidades y conseguir experiencia profesional en
 
 ---
 
-## 📊 Estadísticas
+## 📊 Mis estadísticas en GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanNY&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JhonatanNY&show_icons=true&theme=radical&title_color=00bcd4&icon_color=00bcd4&text_color=ffffff&bg_color=0d1117)
 
 ---
 
