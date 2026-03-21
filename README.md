@@ -12,15 +12,9 @@
 </p>
 
 ---
-
-💻 Desarrollador Web Junior  
-🚀 Enfocado en Frontend con React y Backend con Java (Spring Boot)  
-📚 Actualmente sigo aprendiendo y buscando oportunidad en TI 
-
----
 ## 💡 Sobre mí
 
-💻 Desarrollador Web Junior  
+💻 Egresado de desarrollo de sistemas de información 
 🚀 Enfocado en Frontend con React y Backend con Java (Spring Boot)  
 📚 Actualmente aprendiendo React y reforzando Java + Spring Boot  
 
@@ -32,7 +26,7 @@ Actualmente continúo aprendiendo de forma autodidacta
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Conocimientos
 
 **Frontend**
 - HTML, CSS, JavaScript
