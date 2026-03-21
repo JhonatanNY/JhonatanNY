@@ -14,11 +14,9 @@
 ---
 ## 💡 Sobre mí
 
-💻 Egresado de desarrollo de sistemas de información 
-🚀 Enfocado en Frontend con React y Backend con Java (Spring Boot)  
-📚 Actualmente aprendiendo React y reforzando Java + Spring Boot  
-
-Egresado de Desarrollo de Sistemas de Información (IDAT - diciembre 2023).  
+🎓 Egresado de desarrollo de sistemas de información (IDAT - Diciembre 2023)  
+📚 Actualmente aprendiendo React con typescript y reforzando Java + Spring Boot  
+🎯 Interesado principalmente en desarrollo de software, pero abierto a oportunidades en áreas de TI.
 Actualmente continúo aprendiendo de forma autodidacta
 
 🔗 Landing Page de mi CV:  
