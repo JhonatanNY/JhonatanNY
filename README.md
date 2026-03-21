@@ -1,11 +1,11 @@
-<p align="center">
+<p align="center" >
   <img src="https://raw.githubusercontent.com/JhonatanNY/JhonatanNY/refs/heads/main/Banner.png" width="600" height="200">
 </p>
 
-<h1 align="center">
+<h2 align="center">
   <b>Hola, soy Jhonatan Nuñez</b> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Junior;Buscando+oportunidad+en+TI;🙂" />
