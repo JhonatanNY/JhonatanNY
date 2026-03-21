@@ -48,7 +48,7 @@ Actualmente continúo aprendiendo de forma autodidacta
 ## 🚀 Proyectos destacados
 
 ### 🔹 Aplicaciones en React
-- Consumo de APIs, manejo de estado y componentes
+- Manejo de estado y componentes
 
 👉 https://proyectoguitars.netlify.app/  
 👉 https://propinasyconsumots.netlify.app/  
