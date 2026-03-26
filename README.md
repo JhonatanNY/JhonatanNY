@@ -66,7 +66,12 @@ Actualmente continúo aprendiendo de forma autodidacta
 
 Aquí puedes ver un resumen de mi actividad, commits y repositorios:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JhonatanNY&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats-cyan-six-54.vercel.app/api?username=JhonatanNY&show_icons=true&theme=tokyonight)
+
+
+## 📊 Lenguajes usados 
+
+![Top Langs](https://github-readme-stats-cyan-six-54.vercel.app/api/top-langs/?username=JhonatanNY&layout=compact&theme=tokyonight)
 
 ---
 
