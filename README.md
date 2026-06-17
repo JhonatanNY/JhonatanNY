@@ -50,7 +50,7 @@ Actualmente continúo aprendiendo de forma autodidacta
 
 👉 https://proyectoguitars.netlify.app/  
 👉 https://propinasyconsumots.netlify.app/  
-👉 https://restreadorcalorias.netlify.app/  
+👉 https://rastreadorcalorias.netlify.app/  
 
 ---
 
