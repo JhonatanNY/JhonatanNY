@@ -46,13 +46,22 @@ Actualmente continúo aprendiendo de forma autodidacta
 ## 🚀 Proyectos destacados
 
 ### 🔹 Aplicaciones en React
-- Manejo de estado y componentes
 
-👉 https://proyectoguitars.netlify.app/  
-👉 https://propinasyconsumots.netlify.app/  
-👉 https://rastreadorcalorias.netlify.app/  
-👉 https://control-gastos-five-azure.vercel.app/  
-👉 https://veterinaria-paciente-u57whglug-jhonatannys-projects-bff46126.vercel.app/
+* 🎸 **GuitarLA - Carrito de Compras**
+  https://proyectoguitars.netlify.app/
+
+* 🍽️ **Calculadora de Propinas**
+  https://propinasyconsumots.netlify.app/
+
+* 🥗 **Contador de Calorías**
+  https://rastreadorcalorias.netlify.app/
+
+* 💰 **Control de Gastos**
+  https://control-gastos-five-azure.vercel.app/
+
+* 🐾 **Veterinary Patient Management (CRUD con React + TypeScript + Zustand)**
+  https://veterinaria-paciente-u57whglug-jhonatannys-projects-bff46126.vercel.app/
+
 ---
 
 ### 🔹 API REST con Java + Spring Boot
