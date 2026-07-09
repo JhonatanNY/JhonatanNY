@@ -51,7 +51,7 @@ Actualmente continúo aprendiendo de forma autodidacta
 👉 https://proyectoguitars.netlify.app/  
 👉 https://propinasyconsumots.netlify.app/  
 👉 https://rastreadorcalorias.netlify.app/  
-👉 https://control-gastos-five-azure.vercel.app/
+👉 https://control-gastos-five-azure.vercel.app/  
 👉 https://veterinaria-paciente-u57whglug-jhonatannys-projects-bff46126.vercel.app/
 ---
 
